@@ -79,7 +79,7 @@ This project is designed for **academic accreditation support systems**, includi
 
 ```bash
 streamlit run app.py
-
+```
 ## 📄 License
 
 This project is licensed under the **Apache License 2.0**.  
